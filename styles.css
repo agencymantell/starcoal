@@ -1,5 +1,5 @@
 body {
-	background-image:url(images/starcoal_background.jpg);
+	background-image:url(https://cloud.githubusercontent.com/assets/19926166/16861428/9aee70a8-4a94-11e6-98ec-6367470795ef.jpg);
 	font-size:16px;
 	font-family: "Montserrat", Helvetica, sans-serif;
 	margin:0;
@@ -33,11 +33,20 @@ h1 {
 	background:#FEE5D0;
 	height:100%;
 	margin:0 auto;
+	align-items: center;
 }
 
 .container {
 	height:100vh;
 	position:relative;
+}
+
+.bar img {
+	max-width:200px;
+	display:block;
+	margin:0 auto;
+	padding-top:5em;
+	padding-bottom:8em;
 }
 
 .coming-soon {
@@ -51,7 +60,7 @@ h1 {
 	line-height:1.5;
 	font-size: 1.2em;
 	text-align:center;
-	padding-top:5em;
+	padding-top:1.5em;
 }
 
 @media screen and (max-width:37.5em) {
@@ -67,4 +76,39 @@ h1 {
 	.email {
 		font-size: 1em;
 	}
+
+	.bar img {
+		max-width:140px;
+		padding-top:3em;
+		padding-bottom:5em;
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
